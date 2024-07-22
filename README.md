@@ -13,7 +13,7 @@ xgboost | 2.0.3
 
 You can install the environment according to the following steps:
 ```python
-# optinal, create a new environment
+# Create a new environment
 conda create -n MDRL python=3.8 
 conda activate MDRL
 
